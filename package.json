@@ -1,0 +1,19 @@
+{
+  "name": "zedine",
+  "version": "1.0.0",
+  "description": "Api generation and deployment tool. Low code",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mordeccai/zedine.git"
+  },
+  "author": "Tito Mordeccai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mordeccai/zedine/issues"
+  },
+  "homepage": "https://github.com/mordeccai/zedine#readme"
+}
